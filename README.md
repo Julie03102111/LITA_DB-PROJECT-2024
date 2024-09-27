@@ -35,6 +35,7 @@ EDA involves the exploring of the Data to answer some questions about the Data s
 - What is the overall sales trend
 - Which products are top sellers
 - What are the products on the peak sales
+  
 
 ### Data Analysis
 ---
