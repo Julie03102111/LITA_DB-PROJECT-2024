@@ -10,7 +10,7 @@ The primary source of data used here is Sales.csv and this is open  source data 
 
 
 ### Tools Used
-- Microsoft Excel 
+- Microsoft Excel [Download Here](https://www.microsoft.com)
    1. For Data cleaning
    2. For Analysis
    3. For Data Visualisation
